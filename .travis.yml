@@ -1,0 +1,7 @@
+language: nodejs
+
+nodejs:
+ - 11.0.0
+
+before_script:
+ - npm install
